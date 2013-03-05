@@ -30,8 +30,4 @@
     "node-zip": "https://github.com/feugy/node-zip/archive/master.tar.gz"
   },  
   "license": "Microsoft Office Extensible File License",
-  "scripts": {
-    "test": "mocha -R spec",
-    "preinstall": "npm install -g mocha"
-  }
 }
