@@ -1,6 +1,6 @@
 {
   "name": "xlsx.js",
-  "version": "2.2.0",
+  "version": "2.2.0-experiment3",
   "author": "Stephen Hardy",
   "description": "Convert data in base64 XLSX files into JavaScript objects - and back!",
   "contributors": [ 
@@ -29,5 +29,5 @@
   "dependencies": {
     "node-zip": "https://github.com/feugy/node-zip/archive/master.tar.gz"
   },  
-  "license": "Microsoft Office Extensible File License",
+  "license": "Microsoft Office Extensible File License"
 }
