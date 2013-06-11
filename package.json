@@ -36,6 +36,6 @@
   },
   "license": "Microsoft Office Extensible File License",
   "scripts": {
-    "test": "mocha -R spec",
+    "test": "mocha -R spec"
   }
 }
